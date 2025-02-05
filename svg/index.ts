@@ -1,0 +1,5 @@
+export { default as Logo } from './my-logo'
+export { default as Astro } from './astro'
+export { default as India } from './india-flag'
+export { default as RightArrow } from './right-arrow'
+export { default as ArrowRightUp } from './arrow-right-up'
